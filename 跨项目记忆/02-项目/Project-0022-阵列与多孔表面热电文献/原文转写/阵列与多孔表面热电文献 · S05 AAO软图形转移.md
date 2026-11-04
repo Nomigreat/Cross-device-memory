@@ -1,0 +1,1396 @@
+---
+project_id: Project-0022
+authorization_id: AUTH-20260924-008
+created: 2026-09-24
+kind: docling_pdf
+source_file: "PDMS软压印.pdf"
+source_sha256: "115baa8cd33e151c51f85e1484ab7f02d31052e9aa7fb6b279921c82c11ab127"
+cssclasses: [brain-note]
+tags: [第二大脑, Docling, 原文转写]
+---
+
+# 阵列与多孔表面热电文献 · S05 AAO软图形转移
+
+[[跨项目记忆/02-项目/Project-0022-阵列与多孔表面热电文献/原始文件/PDMS软压印.pdf|打开原始文件]]
+
+> [!info] 来源
+> PDMS软压印.pdf；PDF 7页；Docling 2.130.0 native管线；8处图像引用。
+> Docling原生PDF管线转写；双栏阅读顺序、公式、表格和图中文字请回看原PDF。
+
+[[跨项目记忆/02-项目/Project-0022-阵列与多孔表面热电文献/专题资料卡/阵列与多孔表面热电文献 · 证据矩阵|已核对的逐篇证据矩阵]]
+
+## Docling转写正文
+
+DOI: 10.1002/adfm.200600993
+
+Soft Imprinting: Creating Highly Ordered Porous Anodic Alumina
+
+Templates on Substrates for Nanofabrication**
+
+By Ai Shing Maria Chong, Lee Kheng Tan, Jie Deng, and Han Gao*
+
+1. Introduction
+
+Nanostructured arrays fabricated on surfaces have a wide
+
+range of potential applications in areas such as micro- and
+
+nanoelectronics, photoelectronics, information storage, and
+
+sensing. From the viewpoint of practical applications, nano-
+
+structured arrays with uniform size, tunable dimensions, and
+
+long-range order are highly desired. For example, highly or-
+
+dered TiO2 nanotube arrays serving as electrodes in solar cells
+
+have been reported to exhibit enhanced charge separation effi-
+
+ciency and also offer excellent pathways for charge transport. [1]
+
+Over the past two decades, porous anodic alumina (PAA) has
+
+been widely used as a template to prepare various nanowire
+
+and nanotube arrays, including those of metals, semiconduc-
+
+tors, carbon, and polymers. [2-7] The PAA-assisted approach
+
+provides many advantages over conventional lithographic tech-
+
+niques for the fabrication of simple sub-100 nm nanostructured
+
+arrays. [8,9] For example, its parallel nature allows for the simul-
+
+taneous preparation of nanostructured arrays over very large
+
+areas at low cost. No complicated equipment is required in this
+
+process because hexagonally packed sub-100 nm pores are
+
+formed naturally during Al anodization. The pore diameter
+
+and length, as well as the interpore distance, can be easily
+
+tuned by varying the applied potential and choosing an appro-
+
+priate acidic electrolyte. [10-14] To achieve long-range-order
+
+pores, highly ordered PAA (HOPAA) templates have been
+
+successfully prepared by two-step anodization, [11] pretexturing
+
+Al surfaces using imprinting-based methods, [15-19] as well as by
+
+directly writing the patterns on Al surfaces using a focused ion
+
+beam. [20]
+
+For practical applications, it is highly desirable to directly
+
+grow the nanostructures on various substrates using PAA tem-
+
+plates. Several methods, including the use of ultrathin free-
+
+standing PAA templates, [21] flexible and robust gold mem-
+
+branes replicated from PAA, [22] and PAA templates directly
+
+bonded to the substrates, [23] have been employed to transfer
+
+PAA patterns onto the substrates. In particular, we and others
+
+have recently demonstrated that the direct integration of PAA
+
+templates with substrates (PAA-substrates) provides a versa-
+
+tile and simple method for fabricating nanostructured arrays
+
+on substrates over large areas. [8,9,15,18,24-29] By anodizing an Al
+
+film evenly deposited on a substrate, ultrathin, large-area (4 in.
+
+wafer experimented in our laboratories) PAA templates with a
+
+thickness of ca. 100 nm can be easily fabricated with the sup-
+
+port of the substrate. The intimate contact between the tem-
+
+plate and the substrate enables both solution- and vapor-based
+
+fabrication of a variety of nanostructured materials. In addi-
+
+tion, the PAA-substrates are thermally and chemically stable
+
+in most fabrication processes and can also be easily removed
+
+by selective wet etching. By utilizing this method, a variety of
+
+nanostructuredmaterials, includingmetal andmetal oxide
+
+nanowires/nanotubes, [9,24,30] semiconductor nanoparticles and
+
+holes, [31,32] as well as patterned self-assembled monolayers, [25]
+
+have been successfully fabricated on various substrates.
+
+Even though the PAA-substrates show great potential for
+
+the fabrication of nanostructured arrays on substrates, one
+
+challenge that still remains is the preparation of HOPAA tem-
+
+plates on substrates (HOPAA-substrates). HOPAA can be
+
+fabricated by the anodization of Al with well-patterned nano-
+
+indentations, which guide the development of the pores during
+
+Adv. Funct. Mater. 2007, 17, 1629-1635
+
+© 2007 WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim
+
+1629
+
+-
+
+[*] Dr. H. Gao, A. S. Maria Chong, L. K. Tan, Dr. J. Deng
+
+Institute of Materials Research and Engineering
+
+3 Research Link, 117602 (Singapore)
+
+E-mail: h-gao@imre.a-star.edu.sg
+
+[**] We thank Siew Lang Teo and Vivian Lin Kaixin for the evaporation of
+
+Al, and Dr. Isabel Rodriguez for providing polyimide films and for
+
+useful discussions.
+
+We demonstrate a 'soft-imprinting' method for the fabrication of highly ordered porous anodic alumina (HOPAA) templates
+
+on different substrates (such as Si, glass slides, and flexible polyimide films) over large areas (&gt;1.5 cm 2 ). In this process, Ar
+
+plasma etching is employed to soft imprint an evaporated Al film on the substrates using a free-standing HOPAA template as a
+
+mask, thus creating ordered nanoindentations on the Al surface. The ordered nanoindentations in turn guide the subsequent
+
+anodization of Al to generate HOPAA templates on the substrates (HOPAA-substrates), which inherit the pattern of the free-
+
+standing HOPAA mask. This soft-imprinting technique is also applicable to the fabrication of HOPAA on flexible polymer
+
+films. To demonstrate the potential uses of the HOPAA-substrates in nanofabrication, highly ordered Au nanowire arrays are
+
+fabricated on a Si substrate and TiO2 nanotube arrays are prepared on a glass substrate via solution- and vapor-based fabrica-
+
+tion processes, respectively.
+
+FULL PAPER
+
+![原文图像 1](../原文图片/S05/001.png)
+
+the anodization process under appropriate conditions. [17] Sever-
+
+al methods have been reported to prepare HOPAA on Al foils,
+
+but the fabrication of HOPAA substrates is not very well de-
+
+veloped yet. Ideally, the preparation of HOPAA-substrates
+
+should be simple, cost-effective, and compatible with high-
+
+throughput methods to create patterned nanoindentations on
+
+the Al surface. It should also be substrate-friendly to avoid un-
+
+dermining the substrate underneath the very thin Al films
+
+(usually &lt;1 lm). Methods used for creating ordered nanoin-
+
+dentations such as energetic-particle-beam writing [20] or anod-
+
+ization for long periods of time (known as two-step anodiza-
+
+tion) [11] are substrate-friendly. However, the direct-writing
+
+method is generally serial in nature and is not cost-effective.
+
+The two-step method frequently used to prepare free-standing
+
+HOPAA relies on anodization for a long period of time in the
+
+first step, which creates highly ordered nanoindentations to
+
+guide the second anodization. To obtain PAA with large or-
+
+dered domains (e.g., &gt; 1 lm 2 ), this method requires the use of a
+
+thick Al film (usually requiring anodization for 4 h at room
+
+temperature with an Al thickness &gt; 40 lm) for long-time anod-
+
+ization. [11,13] Deposition of such a thick Al film on a substrate is
+
+neither easy nor cost-effective by electron-beam evaporation,
+
+especially when considering the quality of the evaporated Al.
+
+The electron-beam evaporation of Al films with a thickness of
+
+about 9 lm has recently been demonstrated by Tian et al; [29]
+
+however, the use of such Al films for two-step anodization has
+
+not yet been reported. Imprinting-based methods have been
+
+used by several groups to prepare HOPAA, [15-19,30] wherein na-
+
+noindentations are created by transferring patterns from a hard
+
+master stamp onto the Al surface under high pressure (such as
+
+by an oil press) prior to anodization. Despite the ideally or-
+
+dered patterns obtained, this method is limited by the pattern
+
+transfer protocol. The applied pressure for pattern transfer
+
+tends to crack substrates with low mechanical strength, such as
+
+silicon and glass, and leads to substrate deformation and Al
+
+separation from soft substrates.
+
+In this work, we report a 'soft imprinting' approach to pre-
+
+pare HOPAA on various substrates, including Si, glass slides,
+
+and flexible polyimide films. In this approach, the nanoinden-
+
+tations on the Al surface are soft imprinted via Ar plasma
+
+etching through a free-standing HOPAA mask. This approach
+
+provides a gentle method for creating nanoindentations with-
+
+out undermining the substrate, because almost no mechanical
+
+force is applied on the substrate. The mask used for Ar plas-
+
+ma etching is prepared by a simple two-step anodization pro-
+
+cess. For effective pattern transfer using Ar plasma etching,
+
+we have employed several improved techniques to fabricate
+
+through-pore, large-area (&gt;1.5 cm 2 ), and ultrathin free-stand-
+
+ing HOPAA masks (with thickness ranging from ca. 200-
+
+400 nm). Finally, we demonstrate that the HOPAA-substrates
+
+are versatile and can be used to fabricate highly ordered
+
+nanostructures directly on substrates. Au nanowire arrays are
+
+created on Si substrates via electrodeposition (solution-based
+
+fabrication), and TiO2 nanotube arrays are fabricated on glass
+
+substrates by atomic layer deposition (ALD, vapor-based fab-
+
+rication).
+
+2. Results and Discussion
+
+The method used to prepare HOPAA-substrates is schemat-
+
+ically depicted in Figure 1. Firstly, a free-standing PAA mask
+
+with a protective poly(methyl methacrylate) (PMMA) layer
+
+(Fig. 1a) is fabricated by the two-step anodization of Al foils.
+
+Next, the mask is attached to the substrate (Fig. 1b). After re-
+
+moval of the protective layer, through-pore HOPAA is formed,
+
+which acts as a mask for soft imprinting such that the Al sur-
+
+face is selectively etched by the Ar plasma (Fig. 1c), thereby
+
+creating arrays of nanoindentations on the Al substrate
+
+(Fig. 1d). The nanoindentations then direct the anodization of
+
+Al into the HOPAA template on the substrate (Fig. 1e).
+
+By using soft imprinting, we have successfully fabricated
+
+HOPAA on various substrates. Figure 2 shows top-view scan-
+
+ning electron microscopy (SEM) images of the sample during
+
+three key stages of the process (a Si substrate is used for SEM
+
+observations). The pattern transfer from the HOPAA mask
+
+(Fig. 2a, ca. 60 and 105 nm pore diameter and interpore dis-
+
+tance, respectively) to the Al surface is clearly discernible after
+
+soft imprinting. The nanoindentations replicated from the
+
+HOPAA mask have smaller diameters and similar pore dis-
+
+tances and shapes, as shown in Figure 2b. The Ar plasma etch-
+
+ing process is good enough to create nanoindentations with suf-
+
+ficient depth to guide the subsequent anodization. Figure 2c
+
+shows that the top of the HOPAA-substrate has the same pore
+
+structure and pore arrangement as the HOPAA mask. The in-
+
+set of Figure 2c indicates that the pores are straight through to
+
+the substrate. The ability of the soft-imprinting method to cre-
+
+ate nanoindentations with sufficient depth for guiding the an-
+
+odization process is further confirmed by the SEM image
+
+1630 www.afm-journal.de
+
+© 2007 WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim
+
+Adv. Funct. Mater. 2007, 17, 1629-1635
+
+Al
+
+PMMA
+
+PMMA
+
+Al
+
+Ar +
+
+Al
+
+A
+
+B
+
+C
+
+E
+
+D
+
+Al
+
+Substrate
+
+Substrate
+
+HOPAA
+
+PMMA
+
+Freestanding PAA
+
+PMMA
+
+PMMA
+
+Al
+
+PMMA
+
+Substrate
+
+Al
+
+Ar +
+
+Al
+
+Ar +
+
+Al
+
+Substrate
+
+Al
+
+Figure 1. Schematic depiction of the soft-imprinting method for preparing
+
+HOPAA-substrates. Poly(methyl methacrylate) is used as a protective
+
+layer for the free-standing PAA.
+
+FULL PAPER
+
+A. S. Maria Chong et al./Highly Ordered Porous Anodic Alumina Templates
+
+shown in Figure 3. It can be clearly seen that there are three
+
+distinct regions on the soft-imprinted and anodized Al surface:
+
+Region A is the HOPAA-mask-covered area during the soft
+
+imprinting process, whereas Region B is the area not covered
+
+by the mask, and Region C contains residues of the HOPAA
+
+mask. It can also be clearly seen that the anodized surface in
+
+Region A has pores with a hexagonal arrangement, which ex-
+
+tend the pattern of the HOPAA mask (Region C). In contrast,
+
+Region B shows random pores.
+
+To further demonstrate the substrate-friendly features of the
+
+soft-imprinting method, apart from fabricating HOPAA on Si
+
+substrates, we have also extended this method to the other me-
+
+chanically weak substrates, such as glass slides and flexible
+
+polyimide films (Fig. 4). The HOPAA-glass may be useful for
+
+applications in photovoltaic devices, whereas HOPAA-flex-
+
+ible-substrates may be useful for fabricating flexible displays.
+
+Notably, the use of conventional imprinting methods on these
+
+substrates leads to the formation of cracks or deformations
+
+upon the application of a mechanical force for pattern transfer.
+
+Figure 4 shows a photograph of a bent HOPAA-flexible-poly-
+
+imide-substrate held by a pair of tweezers. The inset shows the
+
+SEM image of the HOPAA layer on the flexible polyimide
+
+film. Although we have demonstrated here that soft imprinting
+
+can be used on flexible polyimide films, further improvements
+
+are necessary to ensure firm adhesion between the template
+
+and the flexible substrate.
+
+In the soft-imprinting process, the main challenges are effi-
+
+cient pattern transfer from the HOPAA mask to the Al surface
+
+through Ar plasma etching, and the large-area fabrication of
+
+an intact free-standing HOPAA mask. For efficient pattern
+
+transfer, the HOPAA mask should be as thin as possible, and
+
+the pore openings need to be large in size. Utilizing the same
+
+pore opening size, we have determined that the time required
+
+Adv. Funct. Mater. 2007, 17, 1629-1635
+
+© 2007 WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim
+
+www.afm-journal.de 1631
+
+Figure 2. Scanning electron microscopy images of the sample at three cru-
+
+cial stages of the soft-imprinting process: A) the free-standing HOPAA
+
+mask, B) nanoindentation arrays on the Al surface after Ar plasma etching
+
+through the HOPAA mask, and C) the HOPAA template on the substrate
+
+after anodization of the soft-imprinted Al. The inset shows a cross-sec-
+
+tional view of the HOPAA on the substrate (the scale bar represents
+
+200 nm in the inset).
+
+Figure 3. Top-view SEM image of a PAA surface with three different re-
+
+gions: the highly ordered pores in Region A are anodized from the soft-im-
+
+printed Al surface through the free-standing HOPAA mask, whereas Re-
+
+gion B is characterized by random pores (fabricated without a HOPAA
+
+mask during the soft-imprinting step). The HOPAA in Region a follows
+
+the pattern of the free-standing HOPAA mask (Region C).
+
+Figure 4. Photograph of a HOPAA template created on a flexible substrate
+
+(a polyimide film). The image shows that the sample can be bent by a pair
+
+of tweezers. The inner rectangular section with a darker color is the anod-
+
+ized region. The inset shows a SEM image of the HOPAA template on the
+
+flexible substrate (the scale bar represents 500 nm).
+
+FULL PAPER
+
+A. S. Maria Chong et al./Highly Ordered Porous Anodic Alumina Templates
+
+![原文图像 2](../原文图片/S05/002.png)
+
+![原文图像 3](../原文图片/S05/003.png)
+
+![原文图像 4](../原文图片/S05/004.png)
+
+for effective Ar plasma etching ('effective' implies that the
+
+nanoindentations can be clearly observed under SEM) in-
+
+creases from 5 to 15 min when the thickness of the HOPAA
+
+mask is increased from ca. 200 to 400 nm. Larger pore open-
+
+ings are as effective at facilitating the Ar plasma etching pro-
+
+cess. In order to prepare the mask with large pores, we have
+
+carried out wet chemical etching of the PMMA/HOPAA mask
+
+for 2 h to firstly remove the barrier layer at the base of the
+
+template, and then to enlarge the pores after the removal of
+
+the barrier layer. Since the etching rate is estimated to be
+
+ca. 0.5 nmmin -1 at room temperature, we originally believed
+
+that chemical etching for 2 h would be sufficient to remove the
+
+barrier layer (ca. 40 nm thick), and subsequently enlarge the
+
+pores. Unfortunately, we have determined that this treatment
+
+does not improve the pattern transfer even upon using a
+
+200 nm thick PAA mask. Further prolonging the chemical
+
+etching time is supposed to enlarge the pores but it also does
+
+not improve the pattern transfer. SEM observations of the
+
+back surface of the PMMA/HOPAAmask after removal of the
+
+barrier layer indicate the presence of PMMA nanowire bun-
+
+dles (Fig.5), suggesting that PMMA infiltrates into the
+
+pores. [33] The presence of PMMAwithin the pores may prevent
+
+H3PO4 from uniformly etching along the pores, resulting in
+
+conical morphologies of the etched pores, as schematically
+
+shown in Figure 6A.
+
+It has previously been reported that upon heating PMMA to
+
+temperatures above its glass transition temperature (120°C),
+
+its viscosity is greatly reduced, enabling it to easily infiltrate
+
+into the PAA pores. [33] We prefer to maintain the PMMA dry-
+
+ing temperature at 120 °C because we believe that the infiltra-
+
+tion of PMMA into the PAA pores produces a more robust
+
+supported mask for handling. Meanwhile, to obtain large pores
+
+for efficient pattern transfer, we have enlarged the pores by
+
+etching the mask in 5 wt% H3PO4 for 50 min before PMMA
+
+coating, followed by an additional etching step in the same so-
+
+lution for 30 min after separation of the PMMA/HOPAA mask
+
+from the Al foil, to remove the barrier layer. We have found
+
+that the combination of the two chemical etching processes
+
+(50 min pore widening prior to PMMA coating plus 30 min
+
+barrier layer removal) is optimal for the fabrication of a
+
+HOPAA mask with pores large enough for pattern transfer
+
+and strong enough for handling (pore-enlargement weakens
+
+the mechanical strength of the free-standing HOPAA). Since
+
+the pore-widening process is conducted before removal of the
+
+barrier layer, we have been able to obtain a HOPAA mask
+
+with large and straight pores, as shown in Figure 6B.
+
+The ultrathin free-standing HOPAA mask is extremely frag-
+
+ile and difficult to handle without the protective PMMA
+
+layer. [22] Even with the protective layer, the possibility of
+
+damaging the mask during the removal of PMMA by conven-
+
+tional methods such as dripping with acetone or chloroform
+
+cannot be ruled out. [21] To thoroughly remove the PMMA with-
+
+out damaging the HOPAA, we used a UV-ozone dry stripping
+
+method. This method enables us to easily obtain a large-area
+
+intact free-standing HOPAA mask (&gt;1.5 cm 2 ), as shown in
+
+Figure 7 (for clearer contrast, we attached the large-area PAA
+
+mask to a darker SiO2/Si substrate, instead of the silvery Al
+
+surface).
+
+The direct integration of HOPAAwith substrates allows for
+
+the template-assisted fabrication of nanostructured arrays on
+
+various substrates via vapor- or solution-based processes.
+
+Highly ordered templates offer good control over the fabrica-
+
+1632 www.afm-journal.de
+
+© 2007 WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim
+
+Adv. Funct. Mater. 2007, 17, 1629-1635
+
+Figure 5. SEM image of the back surface of a PMMA-covered free-standing
+
+HOPAA mask after partial removal of the template. The nanowire bundles
+
+observed are likely to arise from the infiltration of PMMA into the pores of
+
+the template. These structures prevent the etchant from penetrating into
+
+the pores and hinder the widening of the pores, especially close to the
+
+pore openings.
+
+B
+
+A
+
+PMMA
+
+Al
+
+Substrate
+
+Al
+
+Substrate
+
+PMMA
+
+Figure 6. The pore openings of the mask are critical for efficient pattern
+
+transfer in soft imprinting. A) The one-step widening of the pores results in
+
+the formation of conical pores. After removal of the barrier layer at the bot-
+
+tom of the PMMA/HOPAA mask, the etchant might not be able to attack
+
+the pore openings since the pores are blocked by PMMA nanowires.
+
+B) Two-step pore widening increases the pore openings to a size that en-
+
+sures efficient pattern transfer prior to coating with PMMA. This is followed
+
+by the removal of the barrier layer by chemical etching for a brief period.
+
+The two-step pore widening process generates large and straight pores.
+
+Figure 7. Photograph of a large-area intact PAA mask on a SiO2/Si sub-
+
+strate after the removal of PMMA by UV-ozone dry stripping.
+
+FULL PAPER
+
+A. S. Maria Chong et al./Highly Ordered Porous Anodic Alumina Templates
+
+![原文图像 5](../原文图片/S05/005.png)
+
+![原文图像 6](../原文图片/S05/006.png)
+
+tion of nanostructures (parameters such as size, height, and in-
+
+terpore distance). To exploit the HOPAA-substrates for nano-
+
+fabrication, we have first demonstrated the preparation of
+
+highly ordered Au nanowire arrays on Si substrates via electro-
+
+deposition (solution-based fabrication). We have also carried
+
+out the ALD (vapor-based fabrication) of TiO2 nanotube ar-
+
+rays on glass substrates. Although only two nanostructured ma-
+
+terials are demonstrated here, this template-assisted approach
+
+should be generally applicable to other materials.
+
+A thin Au layer (ca. 50 nm) sandwiched between the PAA
+
+and Si substrates serves as an electrode for the electrodeposi-
+
+tion of Au nanowire arrays. Figure 8A shows the top view of a
+
+highly ordered Au nanowire array deposited on a Si substrate
+
+after removal of the HOPAA template. The Au nanowire ar-
+
+rays are hexagonally ordered, well-aligned, and stand upright
+
+on the silicon substrate. The length of the nanowires can be ad-
+
+justed by varying the electrodeposition time. Figure 8B shows
+
+the side view of the well-aligned Au nanowires perpendicular
+
+to the substrate, and Figure 8C is a magnified top-view image
+
+of the array. The length of the Au nanowires synthesized in this
+
+work is around 200 nm; nanowires ranging up to ca. 1 lm in
+
+length can still align vertically and independently on the sub-
+
+strate without collapsing. Figure 8D shows a SEM image of a
+
+Au nanowire array fabricated on a random PAA-substrate, in
+
+which no apparent order is observed. The Au nanowires fabri-
+
+cated on the HOPAA-substrate are much more uniform in size
+
+than the nanowires formed on the random PAA-substrate. As
+
+shown in Figure 8E and F, the highly ordered Au nanowire ar-
+
+rays show a much narrower size distribution than those grown
+
+on random PAA. In this work, we have employed a free-stand-
+
+ing HOPAA mask with 6 h anodization in the first step. To ob-
+
+tain larger ordered domains, further prolongation of the first
+
+anodization of the mask is needed (e.g., 24 h anodization).
+
+Dense (&gt;10 10 cm -2 ), uniform, and well-aligned Au nanowire
+
+arrays with tunable interpore distances grown on Si substrates
+
+may have a number of applications in biosensors, nanoelec-
+
+trode arrays, surface plasmon resonance, and surface enhanced
+
+Raman microscopy. [34]
+
+To demonstrate the potential applications of our HOPAA-
+
+substrate templates in preparing functional devices, [1] we have
+
+fabricated TiO2 nanotube arrays on transparent glass sub-
+
+strates. We have used HOPAA, prepared by the soft-imprinting
+
+method, as a template for the ALD of TiO2. ALD allows for
+
+uniform and conformal coating with precise control of the wall
+
+thickness of the tubes since the deposition occurs by a self-limit-
+
+ing layer-by-layer reaction on the surfaces. [30] Figure 9A shows
+
+a photograph of a typical anodized PAA film on a glass slide, in-
+
+dicating the HOPAA-mask-covered region (HOPAA-sub-
+
+strate) and the uncovered region (random-PAA-substrate).
+
+Upon completion of the anodization process, the Al-coated
+
+glass slide became transparent in both the mask-cov-
+
+ered and uncovered regions. However, the two re-
+
+gions can be differentiated by a slight variation in
+
+color. Highly ordered patterns of the TiO2 nanotube
+
+arrays after removal of the HOPAA template are
+
+shown in Figure 9B and its inset (magnified top view).
+
+The outer diameter of the nanotubes is about 80 nm,
+
+and the thickness of the tube walls is ca. 7 nm (the
+
+rate of TiO2 ALD is ca. 1.0 Åcycle -1 ). The length of
+
+the nanotube arrays can be tuned up to several mi-
+
+crometers by appropriately adjusting the thickness of
+
+the HOPAA template; however, long nanotubes ex-
+
+hibit a tendency to collapse. We have also studied the
+
+effects of the wall thickness of the tubes on the optical
+
+properties of the arrays by varying the number of
+
+ALD cycles. We have carried out UV-vis absorption
+
+spectroscopy measurements directly on the as-depos-
+
+ited samples. The transparent glass substrates used
+
+here greatly facilitate these measurements. As shown
+
+in Figure 9C, a red-shift in the adsorption edge is ob-
+
+served upon increasing the number of ALD cycles
+
+from 10 to 50. However, the adsorption edge starts to
+
+overlap for more than 50 ALD cycles. This result is
+
+similar to the phenomena observed in a previous re-
+
+port. [30] Though the mechanism for the shift in ab-
+
+sorption is controversial, our results confirm that the
+
+optical properties of the TiO2 nanotubes can be tuned
+
+by the ALD technique. The TiO2 nanotube arrays on
+
+the transparent substrates have controllable dimen-
+
+sions and tunable optical properties, and are arranged
+
+in highly ordered patterns, which may facilitate their
+
+use in photovoltaic devices.
+
+Adv. Funct. Mater. 2007, 17, 1629-1635
+
+© 2007 WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim
+
+www.afm-journal.de 1633
+
+70
+
+90
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Percentage (%)
+
+Nanowire Diameter (nm)
+
+110
+
+50
+
+E
+
+F
+
+70
+
+90
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Percentage (%)
+
+Nanowire Diameter(nm)
+
+50
+
+110
+
+Figure 8. SEM images of Au nanowire arrays on a Si substrate obtained using
+
+A) HOPAA and D) random PAA templates. The cross section and magnified top view
+
+of the highly ordered Au nanowire arrays grown vertically on the substrates are shown
+
+in (B) and (C), respectively (the scale bars in these images represent 200 nm). The
+
+size distribution of Au nanowires fabricated from E) HOPAA is much narrower than
+
+that prepared fromF) randomPAA.
+
+FULL PAPER
+
+A. S. Maria Chong et al./Highly Ordered Porous Anodic Alumina Templates
+
+![原文图像 7](../原文图片/S05/007.png)
+
+3. Conclusions
+
+We have demonstrated the soft-imprinting method by using
+
+Ar plasma etching to fabricate HOPAA templates on sub-
+
+strates. In comparison with conventional techniques for the
+
+fabrication of HOPAA, our method can be used for the prepa-
+
+ration of large-area HOPAA templates in good contact with
+
+various types of substrates (Si, glass slides, and flexible polyim-
+
+ide films are demonstrated here). In particular, we have also
+
+demonstrated the use of soft-imprinting methods to fabricate
+
+HOPAA templates on flexible substrates. By using HOPAA
+
+templates, highly ordered Au nanowire arrays have been fabri-
+
+cated on Si substrates, and TiO2 nanotube arrays have been
+
+fabricated on glass substrates via solution- and vapor-based
+
+methods, respectively. Our method can also be used to prepare
+
+perfectly ordered PAA templates on substrates by using free-
+
+standing PAA masks fabricated by lithographic techniques. [17]
+
+4. Experimental
+
+Preparation of HOPAA Masks for Soft Imprinting: The free-standing
+
+HOPAA masks were prepared by the two-step anodization of Al foils,
+
+as reported previously [2]. Briefly, high purity (99.999%) Al foil
+
+(Goodfellow Cambridge) was annealed under a flow of nitrogen at
+
+550 °C for about 1 h, and then electropolished in a mixture of 1:4 (v/v)
+
+perchloric-acid/ethanol in an ice bath. The electropolished Al foil was
+
+first anodized at room temperature for 6-10 h in 0.3M oxalic acid using
+
+40 V, followed by removal of the prepared PAA film by etching with a
+
+solution of 3.5 vol%H3PO4 and 45 gL -1 CrO3 at ca. 60°C until the
+
+PAAwas totally etched and a shiny Al surface was revealed. Subse-
+
+quently, a second anodization process was performed at 2 °C for 10 min
+
+under the same conditions as the first anodization. The second anodiza-
+
+tion step generated a very thin and highly ordered layer of PAA
+
+(ca. 400 nm after 10 min of the second anodization step). The thickness
+
+of the HOPAA films was controlled by the anodization time. The pores
+
+of the as-prepared HOPAA on the Al foil were widened in 5 wt%
+
+H3PO4 for 50 min. This widening step, performed before coating a pro-
+
+tective PMMA layer, enabled a free-standing HOPAA mask to be ob-
+
+tained with large pores, which helped to increase the efficiency of the
+
+subsequent Ar plasma etching step. A layer of 5 wt% PMMA in ani-
+
+sole was applied onto the free-standing HOPAA mask with widened
+
+pores, and was allowed to dry at 120 °C for ca. 30 min. The separation
+
+of the PMMA/HOPAA (PMMA layer on top of the HOPAA mask)
+
+film from the Al foil was achieved by selective wet chemical etching
+
+with a mixture of 0.1M CuSO4 and 10 wt% HCl (1:1 by volume). A
+
+thin transparent membrane of PMMA/HOPAA floated to the surface
+
+of the solution after the separation step. This membrane was rinsed
+
+several times with deionized water. The PMMA/HOPAA film was
+
+floated in a 5 wt% H3PO4 solution for ca. 30 min to remove the bar-
+
+rier layer at its base, as shown in Figure 1a.
+
+Preparation of HOPAA-Substrates by Soft Imprinting: Three types
+
+of substrates were used in our work: p-type Si (100) with a native oxide
+
+layer and a ca. 50 nm gold coating (with ca. 5 nm Ti as an adhesion
+
+layer), glass slides, and flexible polyimide (Dupont-Kapton). An Al
+
+film with a thickness of 0.5-1 lm was deposited by electron-beam
+
+evaporation (Edwards Auto360).
+
+The PMMA/HOPAA film after removal of the barrier layer was
+
+then attached to the Al-substrate system (Fig. 1b). The PMMA protec-
+
+tion layer was removed by treatment with UV-ozone in a dry stripper
+
+(Samco UV-1) at 200 °C for ca. 30 min. Prior to the Ar plasma etching
+
+step, the surface was cleaned by O2 plasma to remove any contami-
+
+nants or PMMA residue (in case any residue is present after the UV-
+
+ozone step) remaining on the free-standing HOPAA-masked substrate.
+
+The Ar plasma etching process was carried out in an Oxford RIE II
+
+Etcher for 15 min with five intercooling cycles (Fig. 1c). After soft im-
+
+printing, the free-standing HOPAA mask was removed using adhesive
+
+tape, followed by ultrasonication in acetone for ca. 2 min before anod-
+
+izing the pretextured-Al-substrate system (Fig. 1d).
+
+Methods for anodizing Al on various substrates have been reported
+
+previously in the literature [9]. Anodization of the soft-imprinted sub-
+
+strates with ca. 1 lm Al at 2 °C required roughly 40 min for an observ-
+
+able color change (from shiny silver to dark purple), indicating the
+
+complete anodization of the substrate (Fig. 1e). The anodization condi-
+
+1634 www.afm-journal.de
+
+© 2007 WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim
+
+Adv. Funct. Mater. 2007, 17, 1629-1635
+
+300
+
+320
+
+340
+
+360
+
+380
+
+400
+
+0 cycle
+
+10 cycles
+
+20 cycles
+
+30 cycles
+
+40 cycles
+
+50 cycles
+
+300
+
+320
+
+340
+
+360
+
+380
+
+400
+
+Absorbance (normalized)
+
+Wavelength (nm)
+
+0 cycle
+
+10 cycles
+
+20 cycles
+
+30 cycles
+
+40 cycles
+
+50 cycles
+
+C
+
+Figure 9. Highly ordered TiO2 nanotube arrays on a glass substrate fabri-
+
+cated using HOPAA-glass. A) Photograph of the as-prepared PAA tem-
+
+plate on a glass substrate. The sample is transparent after anodization.
+
+B) Top-view SEM image of highly ordered TiO2 nanotube arrays on the
+
+substrate. The inset shows a magnified image, clearly showing the hexago-
+
+nal array of nanotubes (the scale bar in the inset represents 200 nm).
+
+C) UV-vis spectra of TiO2 nanotubes with different wall thicknesses. The
+
+adsorption edge shifts to lower energies with increasing wall thickness.
+
+The wall thicknesses are adjusted by varying the number of ALD cycles
+
+from 10 to 50.
+
+FULL PAPER
+
+A. S. Maria Chong et al./Highly Ordered Porous Anodic Alumina Templates
+
+![原文图像 8](../原文图片/S05/008.png)
+
+tions were the same as those for the second anodization step of the
+
+HOPAA mask. The anodized substrate was immersed in a 5 wt%
+
+H3PO4 solution at room temperature for 1 h to remove the barrier
+
+layer in order to deposit nanostructures via electrochemical deposition
+
+or ALD.
+
+Preparation of Highly Ordered Nanostructured Arrays on Substrates:
+
+Au nanowire arrays were fabricated via electrochemical deposition at
+
+-0.75 V (vs. saturated calomel electrode (SCE)) in a commercial solu-
+
+tion (Orotemp 24 , Technic) at 40 °C [6].
+
+The ALD of TiO2 nanotubes on glass substrates was performed in a
+
+home-built ALD setup at room temperature. The glass slides with the
+
+HOPAA template were placed inside a vacuum chamber with a base
+
+pressure of 1×10 -3 torr (1 torr=133 Pa). The sample inside the cham-
+
+ber was repeatedly exposed to two sequentially introduced vapor pre-
+
+cursors, TiCl4 (Merck, ≥99%) and water. The exposure time for the
+
+both precursors was 2 s, and the interval between the two exposures
+
+was 30 s. The samples were immersed in 1M KOH solution for at least
+
+15 min to remove the HOPAA template, and were subsequently rinsed
+
+with isopropyl alcohol and deionized water.
+
+Characterization Methods: Field emission scanning electron micros-
+
+copy (FESEM, JEOL-6700F) was employed for the structural charac-
+
+terization of the HOPAA template, the Al surface, and the Au and
+
+TiO2 nanostructures. PAA templates were coated with carbon to avoid
+
+charging effects. UV-vis absorption measurements of the TiO2 nano-
+
+tube arrays were carried out on the as-prepared samples using a Shi-
+
+madzu UV-3101PC instrument.
+
+Received: October 23, 2006
+
+Revised: December 18, 2006
+
+Published online: May 30, 2007
+
+-
+
+[1] G.K.Mor,K.Shankar,M.Paulose,O.K.Varghese,C.A.Grimes,
+
+Nano Lett. 2006, 6, 215.
+
+[2] H.Gao,C.Mu,F.Wang,D.S.Xu,K.Wu,Y.C.Xie,S.Liu,E.G.
+
+Wang, J. Xu, D. P. Yu, J. Appl. Phys. 2003, 93, 5602.
+
+[3] C.R.Martin,Science1994,266,1961.
+
+[4] Z.Miao,D.S.Xu,J.H.Ouyang,G.L.Guo,X.S.Zhao,Y.Q.Tang,
+
+Nano Lett. 2002, 2, 717.
+
+[5] M. Steinhart, J.H. Wendorff, A. Greiner, R.B. Wehrspohn,
+
+K. Nielsch, J. Schilling, J. Choi, U. Gösele, Science 2002, 296, 1997.
+
+[6] M.L.Tian,J.U.Wang,J.Kurtz,T.E.Mallouk,M.H.W.Chan,Nano
+
+Lett. 2003, 3, 919.
+
+[7] Y.Wang,K.Wu,J.Am.Chem.Soc.2005,127,9686.
+
+[8] O. Rabin, P. R. Herz, Y. M. Lin, A. I. Akinwande, S. B. Cronin, M. S.
+
+Dresselhaus, Adv. Funct. Mater. 2003, 13, 631.
+
+[9] M. S. Sander, L. S. Tan, Adv. Funct. Mater. 2003, 13, 393.
+
+[10] A. P. Li, F. Muller, A. Birner, K. Nielsch, U. Gösele, J. Appl. Phys.
+
+1998, 84, 6023.
+
+[11] H.Masuda,K.Fukuda,Science1995,268,1466.
+
+[12] J. P. O. O'Sullivan, G. C. Wood, Proc. R. Soc. London A 1970, 317,
+
+511.
+
+[13] F.Y.Li,L.Zhang,R.M.Metzger,Chem.Mater.1998,10,2470.
+
+[14] W. Lee, R. Ji, U. Gösele, K. Nielsch, Nat. Mater. 2006, 5, 741.
+
+[15] J.S.Choi,G.Sauer,P.Goring,K.Nielsch,R.B.Wehrspohn,U.Gö-
+
+sele, J. Mater. Chem. 2003, 13, 1100.
+
+[16] S.Fournier-Bidoz,V.Kitaev,D.Routkevitch, I.Manners,G.A.Ozin,
+
+Adv. Mater. 2004, 16, 2193.
+
+[17] H.Masuda,H.Yamada,M.Satoh,H.Asoh,M.Nakao,T.Tamamura,
+
+Appl. Phys. Lett. 1997, 71, 2770.
+
+[18] H. Masuda, K. Yasui, Y. Sakamoto, M. Nakao, T. Tamamura,
+
+K. Nishio, Jpn. J. Appl. Phys. 2001, 40, L1267.
+
+[19] I. Mikulskas, S. Juodkazis, R. Tomasiunas, J. G. Dumas, Adv. Mater.
+
+2001, 13, 1574.
+
+[20] C.Y.Liu,A.Datta,Y.L.Wang,Appl.Phys.Lett.2001,78,120.
+
+[21] Y. Lei, W. K. Chim, J. Am. Chem. Soc. 2005, 127, 1487.
+
+[22] W. Lee, M. Alexe, K. Nielsch, U. Gösele, Chem. Mater. 2005, 17, 3325.
+
+[23] H. Y. Jung, S. M. Jung, G. H. Gu, J. S. Suh, Appl. Phys. Lett. 2006, 89,
+
+013 121.
+
+[24] M. S. Sander, H. Gao, J. Am. Chem. Soc. 2005, 127, 12 158.
+
+[25] H. Gao, N. N. Gosvami, J. Ding, L. S. Tan, M. S. Sander, Langmuir
+
+2006, 22, 8087.
+
+[26] A. L. Cai, H. Y. Zhang, H. Hua, Z. B. Zhang, Nanotechnology 2002,
+
+13, 627.
+
+[27] S.Z.Chu,K.Wada,S.Inoue,Adv.Mater.2002,14,1752.
+
+[28] D. Crouse, Y. H. Lo, A. E. Miller, M. Crouse, Appl. Phys. Lett. 2000,
+
+76, 49.
+
+[29] M. L. Tian, S. Y. Xu, J. G. Wang, N. Kumar, E. Wertz, Q. Li, P. M.
+
+Campbell, M. H. W. Chan, T. E. Mallouk, Nano Lett. 2005, 5, 697.
+
+[30] M. S. Sander, M. J. Cöté, W. Gu, B. M. Kile, C. P. Tripp, Adv. Mater.
+
+2004, 16, 2052.
+
+[31] P.Deb,H.Kim,V.Rawat,M.Oliver,S.Kim,M.Marshall,E.Stach,
+
+T. Sands, Nano Lett. 2005, 5, 1847.
+
+[32] Y. D. Wang, S. J. Chua, M. S. Sander, P. Chen, S. Tripathy, C. G. Fon-
+
+stad, Appl. Phys. Lett. 2004, 85, 816.
+
+[33] C.Goh,K.M.Coakley,M.D.McGehee,NanoLett.2005,5,1545.
+
+[34] M. C. Daniel, D. Astruc, Chem. Rev. 2004, 104, 293.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Adv. Funct. Mater. 2007, 17, 1629-1635
+
+© 2007 WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim
+
+www.afm-journal.de 1635
+
+FULL PAPER
+
+A. S. Maria Chong et al./Highly Ordered Porous Anodic Alumina Templates

@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-11",
+  "task": "结合已有文献与实验条件选择第一项热电应用",
+  "recommendation": "先做受控热源下的温差发电验证，面向低温余热回收；管壁和人体热发电作为后续拓展。",
+  "known_constraints": [
+    "正在准备Sb2Te3球磨-SPS路线",
+    "有3D打印机，型号与打印材料尚未确认",
+    "有磁控溅射设备及Sb2Te3、Bi2Te3靶材",
+    "热电靶材可用不等于已具备n型块体热电腿或合格的网架薄膜"
+  ],
+  "focused_source_checks": [
+    {
+      "doi": "10.1016/j.matlet.2025.138984",
+      "reference": "Ruamruk et al., Materials Letters, 2025",
+      "original_pdf": "02-输入材料/Sb2Te3球磨SPS对标-20261010/Ruamruk2025-SPS温差发电-用户原件.pdf",
+      "visually_checked_page": 2,
+      "verified_use": "球磨-SPS制备Sb2Te3/Bi2Te3块体并用于温差发电的材料路线参照",
+      "limitation": "器件组装细节指向补充材料；摘要、正文及图中的温度定义存在待核对之处，本次不采用功率数值作对标。"
+    },
+    {
+      "doi": "10.1038/s41467-023-37707-2",
+      "original_pdf": "C:/Users/Administrator/Desktop/文献汇报/多孔.pdf",
+      "visually_checked_page": 7,
+      "verified_use": "打印网架加热电薄膜、平面及管状热源发电演示",
+      "limitation": "原文采用部分碳化PEGDA与热蒸发；替换为现有打印材料及磁控溅射仍需验证耐温、膜成分和内表面连续覆盖。"
+    },
+    {
+      "doi": "10.1038/s41467-024-52841-1",
+      "original_pdf": "04-过程文件/PPT预览-三篇原文/PDFs/Comfortable_wearable_thermoelectric_generator_with_high_output_power.pdf",
+      "visually_checked_page": 8,
+      "verified_use": "人体热发电；正文另明确报告50摄氏度热水取热驱动蓝牙温度计，细节位于补充说明S7",
+      "limitation": "原文为镁基p/n材料体系；可借鉴热管理和应用测试，不能直接沿用其材料工艺或输出指标；S7未在本轮完整核验。"
+    }
+  ],
+  "first_experiment": "主线先对当前Sb2Te3样品进行受控温差下的开路电压和负载输出测试，再比较平整与阵列或多孔样品；统一热源、冷端、样品尺度、电极和夹持条件，并实测样品两端温差。",
+  "claim_boundary": "孔隙或阵列是否提高器件输出由对照测量决定，不能由结构外观推断ZT或效率提升；升压储能与用电端演示待输出验证后安排。"
+}

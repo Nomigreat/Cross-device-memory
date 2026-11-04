@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-10",
+  "sourceCoverage": "3 supplied main papers, 21 pages; supplementary files unavailable",
+  "sourceRecords": [
+    {
+      "id": "Wu2022-MTE",
+      "sourceSha256": "E4C58E2045B2CA93CD961C038103468ECC18F6AEA3EC44AC30A0AF1E7ECF55D8",
+      "sourceAndCopyStillMatch": true,
+      "pages": 6,
+      "figures": 5,
+      "tables": 0,
+      "auditStatus": "pass",
+      "auditErrors": 0,
+      "allPagePointersWithinSource": true,
+      "cardSha256": "0C14B0598378B8FB4EF09E7AB7A8E9200E9CC43F9BC10A61B63C321470E6AB18"
+    },
+    {
+      "id": "Sun2023-NanoEnergy",
+      "sourceSha256": "37BE2A79E0838D714A494284874760B886244BE6D38218F5F83CD85F2389BEE3",
+      "sourceAndCopyStillMatch": true,
+      "pages": 9,
+      "figures": 8,
+      "tables": 2,
+      "auditStatus": "pass",
+      "auditErrors": 0,
+      "allPagePointersWithinSource": true,
+      "cardSha256": "8E99F7698EEC82411085D4A42B57F11DF052A0CEA128BD90A5D201FFE3AFDC0E"
+    },
+    {
+      "id": "Jimenez2014-ECM",
+      "sourceSha256": "348668E1938F1A1F5819D86213D05163579171341BF09F8FCD9A19621E8C0701",
+      "sourceAndCopyStillMatch": true,
+      "pages": 6,
+      "figures": 10,
+      "tables": 3,
+      "auditStatus": "pass",
+      "auditErrors": 0,
+      "allPagePointersWithinSource": true,
+      "cardSha256": "4E7A466B6C89589CEE45E3E8D3C8EB16A4FF7F80C51EF7867F1D848291ED5D78"
+    }
+  ],
+  "visualCheckedPdfPages": {
+    "Jimenez2014-ECM": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "Sun2023-NanoEnergy": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "Wu2022-MTE": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "figureTotal": 23,
+  "tableTotal": 5,
+  "reportExists": true,
+  "reportSha256": "C98DBE731AA74CD62B5EEB090CBC4FEC539056AAD9AECE3E71D852EBCDD649BC",
+  "readingCardLinks": [
+    {
+      "target": "Wu2022-MTE/paper-card.md",
+      "exists": true
+    },
+    {
+      "target": "Sun2023-NanoEnergy/paper-card.md",
+      "exists": true
+    },
+    {
+      "target": "Jimenez2014-ECM/paper-card.md",
+      "exists": true
+    }
+  ],
+  "calculations": {
+    "ECM_5h_standardPF_mW_from_PFstar": 2.5,
+    "microW_per_cmK2_to_milliW_per_mK2_16_28": 1.6280000000000001,
+    "NE_kappa_reconstructed_from_approx_PF": 0.8874811320754717,
+    "NE_output_power_density_W_per_cm2": 0.5
+  },
+  "numericFactsVisualReview": "SPS values, PF units, sample identities, efficiency type, mixed directions and main figures/tables checked against rendered source pages",
+  "SI_read": false,
+  "allExperimentalParametersAvailable": false,
+  "statisticalPrecisionOfFigureReadValues": "not established; all marked approximate",
+  "sourcePdfModification": false
+}

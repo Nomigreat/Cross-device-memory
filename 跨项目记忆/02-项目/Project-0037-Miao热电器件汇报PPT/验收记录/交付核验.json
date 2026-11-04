@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-11",
+  "status": "complete",
+  "source_thread_id": "01a128f3-478a-71b3-bf7b-0009cc7a857c",
+  "request": "Continue interrupted device-only PPT, referencing the current group-meeting deck",
+  "final_pptx": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\05-交付物\\Miao器件PPT-20261011\\Miao2024-热电器件-组会风格-v3.pptx",
+  "final_pptx_sha256": "b8005c8019d9e44c923e4aea9a0164acdea1fd670fa773e8ed98c25b87452951",
+  "final_pdf": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\05-交付物\\Miao器件PPT-20261011\\Miao2024-热电器件-预览.pdf",
+  "final_pdf_pages": 4,
+  "overview": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\05-交付物\\Miao器件PPT-20261011\\四页总览.png",
+  "slide_count": 4,
+  "canvas_emu": [
+    12192000,
+    6858000
+  ],
+  "reference": {
+    "path": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\04-过程文件\\Miao器件PPT-20261011\\reference\\组会10.12-风格参考.pptx",
+    "snapshot_source": "PowerPoint live SaveCopyAs",
+    "snapshot_slide_count": 6,
+    "native_render_inspected": true,
+    "fonts": [
+      "宋体",
+      "楷体",
+      "Times New Roman"
+    ],
+    "title_pt": 32,
+    "summary_pt": 28,
+    "blue": "#00469B"
+  },
+  "checks": {
+    "package_integrity": "pass",
+    "layout": "pass",
+    "fonts": "pass",
+    "first_party_import": "pass",
+    "powerpoint_native_render": "pass",
+    "full_size_visual_review": "pass",
+    "editable_text": "pass",
+    "figure_provenance": "pass",
+    "unchanged_previously_reviewed_slides": {
+      "1": true,
+      "2": true,
+      "3": true
+    }
+  },
+  "slide_records": [
+    {
+      "slide": 1,
+      "native_text_runs": 17,
+      "embedded_original_figures": 1,
+      "source_in_notes": true
+    },
+    {
+      "slide": 2,
+      "native_text_runs": 15,
+      "embedded_original_figures": 2,
+      "source_in_notes": true
+    },
+    {
+      "slide": 3,
+      "native_text_runs": 9,
+      "embedded_original_figures": 2,
+      "source_in_notes": true
+    },
+    {
+      "slide": 4,
+      "native_text_runs": 12,
+      "embedded_original_figures": 3,
+      "source_in_notes": true
+    }
+  ],
+  "scientific_boundaries": [
+    "Rigid bulk legs; flexibility from encapsulation and S-shaped electrodes",
+    "Fig.3 plots are model results under the shown thermal boundary conditions",
+    "Bending: 10 mm / 500 cycles; stretching: 20% / 200 cycles",
+    "Fig.4 output is at fixed 10 K bench conditions with mW units",
+    "Body output is 126 μW static and 367 μW enhanced convection",
+    "Text walking speed 1 m/s differs from Methods fan-simulated 1.5 m/s; retain both in notes",
+    "LED is powered through a voltage converter"
+  ],
+  "visual_repairs": [
+    "Expanded Fig.3 crops to include complete power-density axes; removed neighboring panel fragments",
+    "Removed sliver of adjacent photo from Fig.4b-d crop",
+    "Expanded Fig.6a crop to retain the full radiative-film label"
+  ],
+  "render_view_claim": "PowerPoint native exports inspected; no interactive slideshow navigation claimed"
+}

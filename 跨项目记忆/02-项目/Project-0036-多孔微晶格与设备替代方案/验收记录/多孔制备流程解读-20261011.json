@@ -1,0 +1,19 @@
+{
+  "task": "Explain Fig. 1 porous thermoelectric fabrication",
+  "source": "C:\\Users\\Administrator\\Desktop\\文献汇报\\多孔.pdf",
+  "doi": "10.1038/s41467-023-37707-2",
+  "pdf_pages": 10,
+  "checked_pages": [
+    3,
+    7
+  ],
+  "source_text_checked": true,
+  "original_pages_rendered_and_visually_checked": true,
+  "fabrication": [
+    "DLP printing: 405 nm; PEGDA 98 wt%, BAPO 2 wt%; layer 50 um, 8 s per layer",
+    "Partial carbonization: 350 C, 4 h, inert environment; scaffold retained",
+    "Separate thermal evaporation of p-Sb2Te3 and n-Bi2Te3 on the scaffolds; film thickness about 1 um",
+    "10 p-n pairs connected in series using nickel electrodes and Ag-Sn solder; ceramic plates; assembly annealed at 220 C"
+  ],
+  "interpretation": "Designed open lattice pores; retained hybrid carbon core with thermoelectric shell; panels e-i are structural characterization"
+}

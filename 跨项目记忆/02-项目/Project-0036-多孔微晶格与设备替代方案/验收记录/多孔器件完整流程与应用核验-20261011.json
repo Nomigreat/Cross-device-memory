@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-11",
+  "source": "C:/Users/Administrator/Desktop/文献汇报/多孔.pdf",
+  "doi": "10.1038/s41467-023-37707-2",
+  "scope": "制备、组装、发电测试、Fig.4应用与解释边界",
+  "text_checked_pages": [2, 3, 6, 7, 8],
+  "visually_checked_figures": ["Fig.1 on PDF page 3", "Fig.4 on PDF page 6"],
+  "fabrication": [
+    "DLP 405 nm; 98 wt% PEGDA and 2 wt% BAPO; 50 micrometre layers; 8 seconds per layer",
+    "FCC-like open lattice; partially carbonized at 350 degrees Celsius for 4 hours under inert atmosphere; scaffold retained",
+    "Separate p-Sb2Te3 and n-Bi2Te3 thermal evaporation at room temperature; film thickness about 1 micrometre",
+    "Ten p/n pairs electrically connected in series using nickel contacts and Ag-Sn solder, between insulating ceramic plates; assembly heat treatment at 220 degrees Celsius"
+  ],
+  "applications_verified": [
+    "Planar resistive heat source with air natural cooling; load tests at temperature differences 20, 40, 80 and 120 degrees Celsius; reported maximum about 1.4 microwatts",
+    "Circular thermoelectric structure mounted on alumina hot-air pipe; main text reports temperature difference 120 degrees Celsius and maximum power 3.2 microwatts",
+    "LED demonstration through LTC3108 power circuit; article explicitly mentions stored energy"
+  ],
+  "panel_mapping_from_image": {
+    "a": "heat-transfer model",
+    "b": "bulk/lattice infrared comparison",
+    "c": "p/n lattice infrared images",
+    "d": "planar device LED demonstration",
+    "e": "planar load curves",
+    "f": "pipe device LED demonstration",
+    "g": "pipe device load curves",
+    "h": "assembled planar device photograph",
+    "i": "calculated efficiency comparison"
+  },
+  "scientific_boundaries": [
+    "Figure caption panel letters contain mismatches; explain panels by the verified actual figure and main text",
+    "Pipe heat-source temperature is 150 degrees Celsius in main text page 7 but 300 degrees Celsius in Methods page 8; preserve discrepancy",
+    "Do not associate the approximately 10 percent efficiency point in Fig.4i with the 120 degrees Celsius power-test condition",
+    "Efficiency is calculated using Pmax=Voc^2/(4Ri), Qout=kappa*A*DeltaT/L and eta=Pmax/(Pmax+Qout); it is not a directly measured whole-system heat balance",
+    "LED demonstration does not establish continuous lighting; LED current, duration, storage capacity and precharge state were not verified",
+    "Human-body wearing, vehicle exhaust and chimney installation were not experimentally demonstrated in the checked paper",
+    "Microwatt-level power and high source resistance require power-circuit startup and impedance matching verification before reproduction"
+  ],
+  "official_circuit_reference": "https://www.analog.com/en/products/LTC3108.html",
+  "official_circuit_datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3108fc.pdf",
+  "supplement_status": "Supplementary file links were located, but files were not read successfully in this turn; do not infer their absent contents.",
+  "lab_adaptation": "Existing 3D printing and Sb2Te3/Bi2Te3 magnetron sputtering provide a candidate adaptation. Printer type, scaffold thermal stability, interior coating continuity, film composition, Seebeck sign and electrical resistance need verification."
+}

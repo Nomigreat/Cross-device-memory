@@ -1,0 +1,193 @@
+{
+  "paper_doi": "10.1007/s11431-025-3086-1",
+  "source_identity_verified": true,
+  "sources": [
+    {
+      "path": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\02-输入材料\\C9A30AEB375C4910B02C309284F08270 (2).pdf",
+      "sha256": "102daca0794097fa9a48fa0d51bcdcbe5b1c67682945a301052f97fd6d49cfc1",
+      "pages": 9
+    },
+    {
+      "path": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\02-输入材料\\11431_2025_3086_MOESM1_ESM.pdf",
+      "sha256": "5cd2d67ec44ca3500e2f5165122b003efa228e983e6613da912c50b917824e38",
+      "pages": 11
+    }
+  ],
+  "figures": [
+    {
+      "file": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\05-交付物\\Xiang2026-多孔汇报原图-20261011\\Fig3-应力应变与强度对比.png",
+      "source": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\02-输入材料\\C9A30AEB375C4910B02C309284F08270 (2).pdf",
+      "page": 5,
+      "source_render_dpi": 300,
+      "crop_xyxy": [
+        497,
+        2157,
+        1988,
+        2794
+      ],
+      "dimensions": [
+        1491,
+        637
+      ],
+      "sha256": "8301f8bbe95391cd983f9b80b5fef4cee6b326f3811788e8f323617f42593fbd",
+      "visually_verified": true
+    },
+    {
+      "file": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\05-交付物\\Xiang2026-多孔汇报原图-20261011\\Fig3b-归一化屈服强度.png",
+      "source": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\02-输入材料\\C9A30AEB375C4910B02C309284F08270 (2).pdf",
+      "page": 5,
+      "source_render_dpi": 300,
+      "crop_xyxy": [
+        1256,
+        2157,
+        1988,
+        2794
+      ],
+      "dimensions": [
+        732,
+        637
+      ],
+      "sha256": "d6fe357519ec06d4664149eaa8d8b45b8dbce92f43b6ba72b0fdcbe1fe8d8b5b",
+      "visually_verified": true
+    },
+    {
+      "file": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\05-交付物\\Xiang2026-多孔汇报原图-20261011\\Fig4-多孔Ag晶体结构.png",
+      "source": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\02-输入材料\\C9A30AEB375C4910B02C309284F08270 (2).pdf",
+      "page": 6,
+      "source_render_dpi": 300,
+      "crop_xyxy": [
+        488,
+        1408,
+        1982,
+        2901
+      ],
+      "dimensions": [
+        1494,
+        1493
+      ],
+      "sha256": "36da4c122458e0f43570edd8fe9642af8acdfd49b75a87c1681af41599dbad8c",
+      "visually_verified": true
+    },
+    {
+      "file": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\05-交付物\\Xiang2026-多孔汇报原图-20261011\\Fig5-多种材料多孔成形.png",
+      "source": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\02-输入材料\\C9A30AEB375C4910B02C309284F08270 (2).pdf",
+      "page": 7,
+      "source_render_dpi": 300,
+      "crop_xyxy": [
+        534,
+        1885,
+        1952,
+        2942
+      ],
+      "dimensions": [
+        1418,
+        1057
+      ],
+      "sha256": "785a1f2d618f5fb453f68e80c80fd93452246958e40db4b4d3b3bc55689be0d7",
+      "visually_verified": true
+    },
+    {
+      "file": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\05-交付物\\Xiang2026-多孔汇报原图-20261011\\Fig5f-Bi2Te3多孔结构.png",
+      "source": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\02-输入材料\\C9A30AEB375C4910B02C309284F08270 (2).pdf",
+      "page": 7,
+      "source_render_dpi": 300,
+      "crop_xyxy": [
+        1481,
+        2247,
+        1952,
+        2584
+      ],
+      "dimensions": [
+        471,
+        337
+      ],
+      "sha256": "3ff658af2626b036db8022cdd95effceef40d7a71f85bf9cd40451c3458f45b6",
+      "visually_verified": true
+    },
+    {
+      "file": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\05-交付物\\Xiang2026-多孔汇报原图-20261011\\FigS2-扩孔与相对密度调控.png",
+      "source": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\02-输入材料\\11431_2025_3086_MOESM1_ESM.pdf",
+      "page": 3,
+      "source_render_dpi": 300,
+      "crop_xyxy": [
+        694,
+        409,
+        1791,
+        2076
+      ],
+      "dimensions": [
+        1097,
+        1667
+      ],
+      "sha256": "8e893d3e9a57052f5205c4c4543dcceef9385dfc6cfe36f1de80176c95c8dfce",
+      "visually_verified": true
+    },
+    {
+      "file": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\05-交付物\\Xiang2026-多孔汇报原图-20261011\\FigS5-吸能性能对比.png",
+      "source": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\02-输入材料\\11431_2025_3086_MOESM1_ESM.pdf",
+      "page": 6,
+      "source_render_dpi": 300,
+      "crop_xyxy": [
+        735,
+        448,
+        1738,
+        1256
+      ],
+      "dimensions": [
+        1003,
+        808
+      ],
+      "sha256": "e7a6f91b1564a0cd50e5176f2def84080bcd63d18e5da03ebea8e1b25bb36ee9",
+      "visually_verified": true
+    },
+    {
+      "file": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\05-交付物\\Xiang2026-多孔汇报原图-20261011\\TableS1-扩孔与骨架尺寸相对密度.png",
+      "source": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\02-输入材料\\11431_2025_3086_MOESM1_ESM.pdf",
+      "page": 8,
+      "source_render_dpi": 300,
+      "crop_xyxy": [
+        336,
+        412,
+        2143,
+        1132
+      ],
+      "dimensions": [
+        1807,
+        720
+      ],
+      "sha256": "97d3645edb5f738316e98f01fe24a6d100ca756199393a0cac1c1d2c3d619005",
+      "visually_verified": true
+    },
+    {
+      "file": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\05-交付物\\Xiang2026-多孔汇报原图-20261011\\Fig5ef-Ag2S与Bi2Te3多孔结构.png",
+      "source": "C:\\Users\\Administrator\\Desktop\\workspace\\Projects\\Project-0022-阵列与多孔表面热电文献\\02-输入材料\\C9A30AEB375C4910B02C309284F08270 (2).pdf",
+      "page": 7,
+      "source_render_dpi": 300,
+      "crop_xyxy": [
+        1003,
+        2243,
+        1952,
+        2588
+      ],
+      "dimensions": [
+        949,
+        345
+      ],
+      "sha256": "72fdfff503f5347864f32e91162f9c712a80f857b9acd5504653141edf86dea1",
+      "visually_verified": true
+    }
+  ],
+  "checks": {
+    "fig3b_maximum_2_3_ratio_reported_in_main_text": true,
+    "fig3b_this_work_points_are_Ag": true,
+    "fig4_boundaries_and_twins_retained_in_interpretation": true,
+    "fig5_Bi2Te3_panel_f_verified": true,
+    "no_thermoelectric_performance_claim": true,
+    "no_redrawn_data": true,
+    "all_axes_and_legends_preserved": true,
+    "all_panel_letters_and_scale_bars_preserved": true,
+    "all_sources_unchanged": true,
+    "output_files_reopened_and_verified": true
+  },
+  "status": "passed"
+}

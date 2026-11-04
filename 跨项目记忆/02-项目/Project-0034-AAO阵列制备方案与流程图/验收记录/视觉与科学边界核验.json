@@ -1,0 +1,17 @@
+{
+  "checked_at": "2026-10-11",
+  "final_preview": "Sb2Te3-AAO-阵列制备流程-最终版.png",
+  "eight_steps_present": true,
+  "flow": "top left to right, then bottom right to left",
+  "visual_inspection": "final 2880x1620 preview inspected; no text clipping or unintended crop fragments",
+  "material_colors": "Sb2Te3 blue, AAO pink",
+  "attached_base": "pillars shown continuous with same blue bulk",
+  "actual_scale_claimed": false,
+  "actual_SEM_data_claimed": false,
+  "forming_parameters": "待优化",
+  "template_specs": "待确认",
+  "KOH_compatibility": "待验证",
+  "powerpoint_live_UI_verified": false,
+  "bitmap_models_editable": false,
+  "labels_and_arrows_editable": true
+}

@@ -1,0 +1,20 @@
+{
+  "assessment": "Proposed 3D printed scaffold plus magnetron-sputtered thermoelectric films; feasibility inference, not experimentally validated",
+  "user_confirmed": [
+    "3D printer available; model and printing mode unknown",
+    "Magnetron sputtering available; Sb2Te3 and Bi2Te3 targets available"
+  ],
+  "reused_source": "Karthikeyan et al. 2023, DOI 10.1038/s41467-023-37707-2; local PDF pages 3 and 7 verified earlier in this task",
+  "primary_evidence": {
+    "shadowing": "Evrard et al. 2019, DOI 10.1016/j.surfcoat.2019.125070; publisher and author-institution abstracts verify shadowing and thickness-uniformity limitations on 3D substrates",
+    "thin_films": "Haidar et al. 2021, Thin Solid Films 717, 138444; publisher abstract verifies RF magnetron-sputtered Bi2Te3 and Sb2Te3 on flat SiO2/Si; does not validate coating a printed lattice"
+  },
+  "evidence_access": "Primary abstracts/search-indexed publisher content; publisher full-text opening returned 403; no full-text download claimed",
+  "remaining_checks": [
+    "Printer mode, printable resin, open lattice dimensions",
+    "Thermal stability and treatment of the actual printed scaffold; original 350 C/4 h not transferred",
+    "Film composition, Seebeck sign, electrical conductivity on witness substrate",
+    "Coating continuity, thickness and adhesion at inner and outer struts"
+  ],
+  "slide_wording": "Label original figure as literature route and the 3D-printing/magnetron-sputtering route as proposed work"
+}
